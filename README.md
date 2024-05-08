@@ -9,7 +9,7 @@ If you have any questions about Oracle or their Global Hack Week challenges, hea
 # Registration Challenges
 
 ## Registration Challenge 1 
-### Sign up and 23c Free VirtualBox 
+### Sign up and 23ai Free VirtualBox 
 
 Check out this [useful blog post](https://hackp.ac/ghwdata24-oracle-registration) for instructions on how to get set up with VirtualBox. 
 <br>
