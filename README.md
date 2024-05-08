@@ -24,12 +24,6 @@ Oracle LiveLabs gives you access to Oracle's tools and technologies to run a wid
 
 Head over to [LiveLabs signup page](https://hackp.ac/ghwdata24-oracle-livelabs) to get started. 
 <br>
-#### Resources: 
-* [Learn more about Oracle Database 23c Free and set up a free instance to get started](https://hackp.ac/ghwapi24-oracle-freedb-gettingstarted).
-* [Check out Oracle's Live Labs to try out some of their featured workshops](https://hackp.ac/ghwapi24-oracle-livelabs)
-* [Check out the Oracle Database 23c documentation](https://hackp.ac/ghwapi24-oracle-database)!
-* [SQL, JSON, and MongoDB API: Unify worlds with Oracle Database 23c Free](https://hackp.ac/ghwapi24-oracle-mongodb-api).
-* [Oracle Databse 23c Free is a widely used and documented database solution. Check out the FAQs for more support](https://hackp.ac/ghwapi24-oracle-dbfaq).
 
 # Coding Challenges
 
