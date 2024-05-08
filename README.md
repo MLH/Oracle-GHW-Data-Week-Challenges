@@ -13,7 +13,7 @@ If you have any questions about Oracle or their Global Hack Week challenges, hea
 
 Check out this [useful blog post](https://hackp.ac/ghwdata24-oracle-registration) for instructions on how to get set up with VirtualBox. 
 <br>
-23C Free and VirtualBox is a free database and virtual environment setup available through Oracle! Click the link for a step by step tutorial on how to signup and get started. 
+23ai Free and VirtualBox is a free database and virtual environment setup available through Oracle! Click the link for a step by step tutorial on how to signup and get started. 
 #### Resources:
 * [Download VirtualBox for free using this link](https://hackp.ac/ghwdata24-oracle-virtualbox).
 
@@ -28,10 +28,10 @@ Head over to [LiveLabs signup page](https://hackp.ac/ghwdata24-oracle-livelabs) 
 # Coding Challenges
 
 ## Coding Challenge 1 
-### Explore Operational Property Graphs with Oracle Database 23c
+### Explore Operational Property Graphs with Oracle Database 23ai
 #### Objective: 
-* This workshop focuses on working with Property Graphs in Oracle Database 23c. You will create a graph from two tables, one containing bank account information, and another containing bank transactions information. You will then run graph pattern queries in SQL on this graph. You will find circular payment chains, multi-hop paths between accounts, and more.
-* In Oracle Database 23c, the GRAPH_TABLE function and MATCH clause of the new SQL:2023 standard enable you to write simple SQL queries to follow connections in data. This workshop illustrates how you can model your data as a graph and run graph queries in SQL to quickly see relationships in your data that are difficult to identify otherwise.
+* This workshop focuses on working with Property Graphs in Oracle Database 23ai. You will create a graph from two tables, one containing bank account information, and another containing bank transactions information. You will then run graph pattern queries in SQL on this graph. You will find circular payment chains, multi-hop paths between accounts, and more.
+* In Oracle Database 23ai, the GRAPH_TABLE function and MATCH clause of the new SQL:2023 standard enable you to write simple SQL queries to follow connections in data. This workshop illustrates how you can model your data as a graph and run graph queries in SQL to quickly see relationships in your data that are difficult to identify otherwise.
 * Head over to [this workshop](https://hackp.ac/ghwdata24-oracle-OPG) for step by step guidance on how to complete this challenge! 
 
 ## Coding Challenge 2 
@@ -45,7 +45,7 @@ Head over to [LiveLabs signup page](https://hackp.ac/ghwdata24-oracle-livelabs) 
 ## Coding Challenge 3 
 ### Use SQL for relational tables and JSON documents in a single database
 #### Objectives: 
-* JSON Relational Duality is a landmark capability in Oracle Database 23c providing game-changing flexibility and simplicity for Oracle Database developers. This breakthrough innovation overcomes the historical challenges developers have faced when building applications, using relational or document models. JSON Relational Duality converges the benefits of the Relational and Document worlds within a single database. Apps can access the same data as a set of JSON documents or as relational tables and columns without data duplication. Whether you are a Relational/SQL developer, Document database developer, Java or Python App developer, gain first-hand experience building apps using Duality Views.
+* JSON Relational Duality is a landmark capability in Oracle Database 23ai providing game-changing flexibility and simplicity for Oracle Database developers. This breakthrough innovation overcomes the historical challenges developers have faced when building applications, using relational or document models. JSON Relational Duality converges the benefits of the Relational and Document worlds within a single database. Apps can access the same data as a set of JSON documents or as relational tables and columns without data duplication. Whether you are a Relational/SQL developer, Document database developer, Java or Python App developer, gain first-hand experience building apps using Duality Views.
 
 #### Documentation:
 * [This live lab features step by step instructions on how to complete this challenge](https://hackp.ac/ghwdata24-oracle-SQLJSON)!
@@ -82,7 +82,7 @@ _Join us in this challenge to push the boundaries of data management and analyti
 
 ### Documentation
 * [Database](https://hackp.ac/ghwdata24-oracle-docs-database)
-* [23c](https://hackp.ac/ghwdata24-oracle-docs-23c)
+* [23ai](https://hackp.ac/ghwdata24-oracle-docs-23ai)
 * [OCI](https://hackp.ac/ghwdata24-oracle-docs-OCI)
 * [ABD](https://hackp.ac/ghwdata24-oracle-docs-ABD)
 * [ORDS](https://hackp.ac/ghwdata24-oracle-docs-ORDS)
