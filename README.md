@@ -61,7 +61,7 @@ Head over to [LiveLabs signup page](https://hackp.ac/ghwdata24-oracle-livelabs) 
 _Join us in this challenge to push the boundaries of data management and analytics. Are you up for the challenge?_
 
 #### Documentation:
-* [You can use this workshop as reference for completing this challenge]([https://hackp.ac/ghwapi24-oracle-book-store-challenge](https://hackp.ac/ghwdata24-oracle-grandslam)!
+* [You can use this workshop as reference for completing this challenge](https://hackp.ac/ghwdata24-oracle-grandslam)!
 
 ## More Resources
 ### Hands-On Labs
